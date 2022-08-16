@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sud0-AP Aka. Ayan Panchariya Btech. CSE. Student At Manipal University Jaipur.
+- 👋 Hi, I’m @Sud0-AP Aka. Ayan Panchariya. I'm a Btech CSE. Student At Manipal University Jaipur.
 - 
 - 👀 I’m interested in ... BlockChain Development, Android Development, Arduino Projects, Web Development
 - 

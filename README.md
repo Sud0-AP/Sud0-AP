@@ -2,7 +2,7 @@
 - 
 - 👀 I’m interested in ... BlockChain Development, Android Development, Arduino Projects, Web Development
 - 
-- 🌱 I’m currently learning ... BlockChain Development and Web Development
+- 🌱 I’m currently learning ... BlockChain Development on solana network
 - 
 - 💞️ I’m looking to collaborate on ...BlockChain, Android, Arduino,Web Development related projects
 - 

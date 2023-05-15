@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayan Panchariya a.k.a Sud0_</h1>
 <h3 align="center">A passionate IOT, Android, Web 3.0 developer from Jaipur, India !</h3>
 
-<p align="left"> <a href="https://twitter.com/sud0_cr4ckh3ad" target="blank"><img src="https://img.shields.io/twitter/follow/sud0_cr4ckh3ad?logo=twitter&style=for-the-badge" alt="sud0_cr4ckh3ad" /></a> </p>
+<p align="left"> <a href="https://twitter.com/0xSud0_" target="blank"><img src="https://img.shields.io/twitter/follow/sud0_cr4ckh3ad?logo=twitter&style=for-the-badge" alt="sud0_cr4ckh3ad" /></a> </p>
 
 - 🔭 I’m currently working on [Road to web 3.0 - Certification Projects](https://github.com/Sud0-AP/Road-to-Web3.0)
 
